@@ -1,0 +1,62 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R5         RESC1608X55X30ML15T15   1114.173mil    385.827mil   1114.173mil    385.827mil    1085.63mil    385.827mil  T        360.00 0603 1k        
+POWER      LED1608x55N        933.071mil    385.827mil    933.071mil    385.827mil    962.598mil    385.827mil  T        180.00 0603 Green     
+U5         SOIC127P600X170_HS-9N   1333.761mil    952.756mil   1333.761mil    952.757mil   1258.761mil    845.473mil  T         90.00 Texas Instruments TPS54339DDA
+U1         PCB-aislhniljlol1jo7ju5i-1   2408.819mil   1040.631mil   2408.819mil   1040.631mil   2371.418mil     989.45mil  T        360.00 STMicroelectronics STBC08PMR
+U3         PCB-aislhniljlol1jo7ju5i-1   1744.095mil    318.898mil   1744.095mil    318.898mil   1781.496mil    370.079mil  T        180.00 STMicroelectronics STBC08PMR
+U4         PCB-aislhniljlol1jo7ju5i-1   2236.221mil    318.898mil   2236.221mil    318.898mil   2273.622mil    370.079mil  T        180.00 STMicroelectronics STBC08PMR
+U2         PCB-aislhniljlol1jo7ju5i-1       1960mil   1040.631mil       1960mil   1040.631mil   1922.599mil     989.45mil  T        360.00 STMicroelectronics STBC08PMR
+C8         CAPC1608X90X35NL15T15   1555.118mil    724.409mil   1555.118mil    724.409mil   1525.591mil    724.409mil  T        360.00 0603 1uF       
+C1         CAPC1608X90X35NL15T15   1211.714mil     724.41mil   1211.714mil     724.41mil   1211.714mil    753.938mil  T        270.00 0603 100nF     
+C2         CAPC1608X90X35NL15T15    1440.06mil   1157.481mil    1440.06mil   1157.481mil   1410.532mil   1157.481mil  T        360.00 0603 10pF      
+C6         CAPC1608X90X35NL15T15   1145.669mil   1043.308mil    1145.67mil   1043.308mil   1116.142mil   1043.308mil  T        360.00 0603 10nF      
+C5         CAPC1608X90X35NL15T15   1306.202mil   1157.481mil   1306.202mil   1157.481mil   1276.674mil   1157.481mil  T        360.00 0603 1uF       
+C7         PCB-h26gble9h939l4c191wl-1   1555.118mil    948.819mil   1555.118mil    948.819mil   1610.236mil    948.819mil  T        180.00 1210 47uF      
+C4         CAPC3225X279X50ML20T25   1357.383mil    720.473mil   1357.383mil    720.473mil   1416.438mil    720.473mil  T        180.00 1210 10uF      
+C3         CAPC3225X279X50ML20T25   1110.236mil    685.039mil   1110.236mil    685.039mil   1110.236mil    744.095mil  T        270.00 1210 10uF      
+C9         CAPC1608X90X35ML10T15    2263.78mil   1102.363mil    2263.78mil   1102.363mil   2235.237mil   1102.363mil  T        360.00 0603 4.7uF X5R 
+C11        CAPC1608X90X35ML10T15   2287.402mil    984.253mil   2287.402mil    984.253mil   2287.402mil   1012.796mil  T        270.00 0603 4.7uF X5R 
+C13        CAPC1608X90X35ML10T15   1893.701mil     263.78mil   1893.701mil     263.78mil   1922.245mil     263.78mil  T        180.00 0603 4.7uF X5R 
+C15        CAPC1608X90X35ML10T15   1866.142mil    377.953mil   1866.142mil    377.953mil   1866.142mil     349.41mil  T         90.00 0603 4.7uF X5R 
+C14        CAPC1608X90X35ML10T15   2389.764mil     263.78mil   2389.764mil     263.78mil   2418.307mil     263.78mil  T        180.00 0603 4.7uF X5R 
+C16        CAPC1608X90X35ML10T15   2358.268mil    377.954mil   2358.268mil    377.954mil   2358.268mil     349.41mil  T         90.00 0603 4.7uF X5R 
+C10        CAPC1608X90X35ML10T15   1818.898mil   1098.426mil   1818.898mil   1098.426mil   1790.355mil   1098.426mil  T        360.00 0603 4.7uF X5R 
+C12        CAPC1608X90X35ML10T15   1838.583mil    984.253mil   1838.583mil    984.253mil   1838.583mil   1012.796mil  T        270.00 0603 4.7uF X5R 
+D1         PCB-816754-1       925.197mil    598.425mil    925.197mil    598.425mil    925.197mil    511.417mil  T         90.00 SMB 3A 40V     
+D2         VISH-DO-214AC-2_M    925.197mil    901.575mil    925.197mil    901.575mil    925.197mil    965.551mil  T        270.00 SMAJ30CAHE3/5A 
+D4         LED1608x55N        2696.85mil   1102.362mil    2696.85mil   1102.362mil    2696.85mil    1131.89mil  T        270.00 0603 Green     
+D8         LED1608x55N        2696.85mil    551.181mil    2696.85mil    551.181mil    2696.85mil    580.709mil  T        270.00 0603 Green     
+D10        LED1608x55N        2696.85mil    275.591mil    2696.85mil    275.591mil    2696.85mil    305.118mil  T        270.00 0603 Green     
+D6         LED1608x55N        2696.85mil    826.772mil    2696.85mil    826.772mil    2696.85mil    856.299mil  T        270.00 0603 Green     
+L1         PCB-w72kg8ogivlijd3jpx38-1   1362.205mil    437.009mil   1362.205mil    437.009mil   1362.205mil    546.064mil  T        270.00 IHLP2525EZER3R3M01
+R3         RESC1608X55X30ML15T15    1440.06mil   1228.347mil    1440.06mil   1228.347mil   1411.517mil   1228.347mil  T        360.00 0603 133k 1%   
+R4         RESC1608X55X30ML15T15   1306.202mil   1228.347mil   1306.202mil   1228.347mil   1277.658mil   1228.347mil  T        360.00 0603 24k 1%    
+R1         RESC1609X55X30NL10T20   1148.721mil   1110.237mil   1148.721mil   1110.237mil   1177.265mil   1110.237mil  T        180.00 0603 10k       
+R10        RESC1005X40X25NL05T05   2444.927mil   1211.529mil   2444.883mil   1213.603mil   2444.883mil    1231.32mil  T        270.00 Bridge         
+R9         RESC1005X40X25NL05T05   2377.998mil   1210.524mil   2377.953mil   1212.599mil   2377.953mil   1230.316mil  T        270.00 Bridge         
+R5         RESC1608X55X30ML15T15    2618.11mil   1102.362mil    2618.11mil   1102.362mil    2618.11mil   1130.906mil  T        270.00 0603 1k        
+R14        RESC1608X55X30ML15T15   2267.717mil    1263.78mil   2267.717mil    1263.78mil   2239.174mil    1263.78mil  T        360.00 0603 3.33k     
+R13        RESC1609X50X30ML10T20   2267.717mil   1192.914mil   2267.717mil   1192.914mil   2241.142mil   1192.914mil  T        360.00 0603 2k        
+R22        RESC1005X40X25NL05T05   1779.483mil    159.556mil   1779.528mil    157.481mil   1779.528mil    139.764mil  T         90.00 Bridge         
+R21        RESC1005X40X25NL05T05   1708.617mil    159.556mil   1708.662mil    157.481mil   1708.662mil    139.764mil  T         90.00 Bridge         
+R17        RESC1608X55X30ML15T15    2618.11mil    551.181mil    2618.11mil    551.181mil    2618.11mil    579.724mil  T        270.00 0603 1k        
+R26        RESC1608X55X30ML15T15   1893.701mil    165.355mil   1893.701mil    165.355mil   1922.245mil    165.355mil  T        180.00 0603 3.33k     
+R25        RESC1609X50X30ML10T20   1893.071mil     99.686mil   1893.071mil     99.686mil   1919.646mil     99.686mil  T        180.00 0603 2k        
+R24        RESC1005X40X25NL05T05   2271.609mil    159.556mil   2271.654mil    157.481mil   2271.654mil    139.764mil  T         90.00 Bridge         
+R23        RESC1005X40X25NL05T05   2200.743mil    159.556mil   2200.788mil    157.481mil   2200.788mil    139.764mil  T         90.00 Bridge         
+R19        RESC1608X55X30ML15T15    2618.11mil    275.591mil    2618.11mil    275.591mil    2618.11mil    304.134mil  T        270.00 0603 1k        
+R28        RESC1608X55X30ML15T15   2389.764mil    169.292mil   2389.764mil    169.292mil   2418.307mil    169.292mil  T        180.00 0603 3.33k     
+R27        RESC1609X50X30ML10T20   2389.764mil    102.363mil   2389.764mil    102.363mil   2416.339mil    102.363mil  T        180.00 0603 2k        
+R12        RESC1005X40X25NL05T05   1996.108mil   1210.524mil   1996.063mil   1212.599mil   1996.063mil   1230.316mil  T        270.00 Bridge         
+R11        RESC1005X40X25NL05T05   1929.179mil   1210.524mil   1929.134mil   1212.599mil   1929.134mil   1230.316mil  T        270.00 Bridge         
+R7         RESC1608X55X30ML15T15    2618.11mil    826.772mil    2618.11mil    826.772mil    2618.11mil    855.315mil  T        270.00 0603 1k        
+R16        RESC1608X55X30ML15T15   1818.268mil    1265.04mil   1818.268mil    1265.04mil   1789.725mil    1265.04mil  T        360.00 0603 3.33k     
+R15        RESC1609X50X30ML10T20   1818.268mil   1198.111mil   1818.268mil   1198.111mil   1791.693mil   1198.111mil  T        360.00 0603 2k        
+B1         PCB-vmasgze9zd507y9b5wb8-1   2849.409mil   1102.362mil   2874.016mil   1102.362mil   2874.016mil   1102.362mil  T        270.00 Molex 53047-0210
+B2         PCB-vmasgze9zd507y9b5wb8-1   2849.409mil    826.772mil   2874.016mil    826.772mil   2874.016mil    826.772mil  T        270.00 Molex 53047-0210
+B3         PCB-vmasgze9zd507y9b5wb8-1   2849.409mil    551.181mil   2874.016mil    551.181mil   2874.016mil    551.181mil  T        270.00 Molex 53047-0210
+B4         PCB-vmasgze9zd507y9b5wb8-1   2849.409mil    275.591mil   2874.016mil    275.591mil   2874.016mil    275.591mil  T        270.00 Molex 53047-0210
+*          PCB-9eoogmb27k46wcqkg2ko-1    486.575mil    693.976mil    661.417mil    688.976mil    641.732mil     539.37mil  T         90.00 XT60PT         
+C17        PCB-h26gble9h939l4c191wl-1   1555.118mil    818.898mil   1555.118mil    818.898mil   1610.236mil    818.898mil  T        180.00 1210 47uF      
+
